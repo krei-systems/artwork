@@ -3,4 +3,4 @@ This repository consists of everything artwork related in Krei Systems.
 
 * Entries
  
-- [[https://github.com/eldriv/artwork/tree/eldriv-entry-artwork-no-1/lisp-wallpaper][Taijitu Lisp]] by [[Michael Adrian Villareal][https://github.com/eldriv/]]
+- [[https://github.com/eldriv/artwork/tree/eldriv-entry-artwork-no-1/lisp-wallpaper][Taijitu Lisp]] by [[https://github.com/eldriv/][Michael Adrian Villareal]]
