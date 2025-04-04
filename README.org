@@ -1,0 +1,6 @@
+* Overview
+This repository consists of everything artwork related in Krei Systems.
+
+* Entries
+ 
+- [[Taijitu Lisp][]] by [[Michael Adrian Villareal][https://github.com/eldriv/]]
